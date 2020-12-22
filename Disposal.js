@@ -1,0 +1,6 @@
+class Disposals {
+    constructor(){
+
+
+    }
+}
